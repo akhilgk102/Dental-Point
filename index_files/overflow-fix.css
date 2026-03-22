@@ -1,0 +1,4 @@
+.section_info {
+  overflow: hidden !important;
+  clip-path: inset(0 0 0 0);
+}
